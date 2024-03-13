@@ -2,3 +2,5 @@ Vamos a ver como es hacer distintas branches.
 
 Vamos a simular que terminé de correr el feature.
 Notese que modifiqué el test.
+
+Después de hacer un merge estoy modificando el feature branch
