@@ -1,3 +1,8 @@
-Testing how to do this
+"Testing how to do this"
 
-Changing things after move to "feature branch and back"
+Que pasa si modifico algún file que no sea el feature.
+## Hice los commits con el mismo mensaje, así que lo volveré a hacer con un buen mensaje.
+:)
+
+Accept yours significa aceptar lo que está en la branch de donde se está jalando jeje (main).
+Accept theirs es aceptar lo que se está jalando (feature).
