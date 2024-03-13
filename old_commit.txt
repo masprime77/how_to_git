@@ -1,0 +1,1 @@
+When merging two files that are in conflict, you can choose only one or what changes to merge.
